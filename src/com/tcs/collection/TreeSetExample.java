@@ -5,6 +5,7 @@ import java.util.TreeSet;
  *By Default elements in the TreeSet will sorted.
  *TreeSet Doesn't allows the null value.
  *TreeSet class is non synchronized
+ *Initial capacity is 16 and 0.75f is the load factor.
  */
 public class TreeSetExample {
 	public static void main(String[] args) {
